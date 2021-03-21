@@ -1,0 +1,270 @@
+
+ ---------------------------------------- 
+ Eac String Dump 0x23f221 - By m853ax
+ ----------------------------------------
+
+eac_stringtable+0x4 String: KiUserApcDispatcher
+eac_stringtable+0x18 String: ntdll.dll
+eac_stringtable+0x2c String: DbgUiRemoteBreakin
+eac_stringtable+0x3f String: NtTerminateProcess
+eac_stringtable+0x52 String: NtWaitForDebugEvent
+eac_stringtable+0x66 String: kldbgdrv
+eac_stringtable+0x78 String: \Device\kldbgdrv
+eac_stringtable+0x9a String: kernel32.dll
+eac_stringtable+0xb4 String: VirtualFree
+eac_stringtable+0xc0 String: hal.dll
+eac_stringtable+0xc8 String: \Registry\Machine\BCD00000000\Objects\{xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx}\Elements\xxxxxxxx
+eac_stringtable+0x186 String: 12000002
+eac_stringtable+0x198 String: Element
+eac_stringtable+0x1a8 String: 22000011
+eac_stringtable+0x1ba String: Beep.sys
+eac_stringtable+0x1c3 String: \Registry\Machine\System\CurrentControlSet\Control
+eac_stringtable+0x229 String: SystemStartOptions
+eac_stringtable+0x24f String: TESTSIGNING
+eac_stringtable+0x267 String: DISABLE_INTEGRITY_CHECKS
+eac_stringtable+0x299 String: 16000049
+eac_stringtable+0x2ab String: ci.dll
+eac_stringtable+0x2b2 String: CiInitialize
+eac_stringtable+0x2bf String: \Registry\Machine\System\CurrentControlSet\Control\CI
+eac_stringtable+0x32b String: CI
+eac_stringtable+0x331 String: DebugFlags
+eac_stringtable+0x347 String: CodeIntegrity-AllowConfigurablePolicy-CustomKernelSigners
+eac_stringtable+0x3bb String: Proc
+eac_stringtable+0x3c5 String: \??\PCI
+eac_stringtable+0x3d5 String: \??\USB
+eac_stringtable+0x3e5 String: \Device
+eac_stringtable+0x3f5 String: Device
+eac_stringtable+0x403 String: .local
+eac_stringtable+0x411 String: NtTerminateThread
+eac_stringtable+0x423 String: \Device\iubesks
+eac_stringtable+0x443 String: Fs_Rec.sys
+eac_stringtable+0x44e String: \Windows\system32\winload.exe
+eac_stringtable+0x48a String: \Windows\system32\winload.efi
+eac_stringtable+0x4c6 String: ntoskrnl.exe
+eac_stringtable+0x4e0 String: \System32\Drivers\
+eac_stringtable+0x506 String: \SystemRoot\system32\drivers\
+eac_stringtable+0x524 String: Microsoft Windows
+eac_stringtable+0x548 String: \Driver
+eac_stringtable+0x558 String: .sys
+eac_stringtable+0x562 String: Driver
+eac_stringtable+0x570 String: Directory
+eac_stringtable+0x584 String: N/A
+eac_stringtable+0x58c String: a???????
+eac_stringtable+0x597 String: ??+?
+eac_stringtable+0x59d String: BootCurrent
+eac_stringtable+0x5b5 String: Boot%04X
+eac_stringtable+0x5c7 String: BootOrder
+eac_stringtable+0x5db String: Windows Boot Manager
+eac_stringtable+0x605 String: ntoskrnl.exe
+eac_stringtable+0x612 String: \Registry\Machine\SYSTEM\CurrentControlSet\Services\EasyAntiCheatSys
+eac_stringtable+0x69c String: Instances
+eac_stringtable+0x6b0 String: \Registry\Machine\SYSTEM\CurrentControlSet\Services\EasyAntiCheatSys\Instances
+eac_stringtable+0x74e String: DefaultInstance
+eac_stringtable+0x76e String: EasyAntiCheat
+eac_stringtable+0x78a String: \Registry\Machine\SYSTEM\CurrentControlSet\Services\EasyAntiCheatSys\Instances\EasyAntiCheat
+eac_stringtable+0x844 String: Altitude
+eac_stringtable+0x856 String: 327530
+eac_stringtable+0x864 String: Flags
+eac_stringtable+0x870 String: .eac
+eac_stringtable+0x87a String: [%s] N: %s T: %08X C: %08X E: %08X
+eac_stringtable+0x8c0 String: [Lib] N: %wZ B: %p S: %X P: %s
+eac_stringtable+0x8fe String: [Sys] N: %wZ S: %X T: %08X C: %08X E: %08X
+eac_stringtable+0x954 String: apisetschema.dll
+eac_stringtable+0x976 String: [Mem] S: %Xh P: %Xh T: %Xh S: %Xh
+eac_stringtable+0x9ba String: xyzkernel32.dll
+eac_stringtable+0x9cd String: \Device\EasyAntiCheat
+eac_stringtable+0x9f9 String: LdrLoadDll
+eac_stringtable+0xa04 String: wow64log.dll
+eac_stringtable+0xa1e String: Crt
+eac_stringtable+0xa26 String: WerFault.exe
+eac_stringtable+0xa33 String: CrashReport
+eac_stringtable+0xa3f String: Easy Anti-Cheat
+eac_stringtable+0xa5f String:  [
+eac_stringtable+0xa65 String: ]
+eac_stringtable+0xa69 String: \Registry\Machine\System\CurrentControlSet\Control\SystemInformation
+eac_stringtable+0xaf3 String: ComputerHardwareId
+eac_stringtable+0xb19 String: \Registry\Machine\Hardware\Description\System\BIOS
+eac_stringtable+0xb7f String: BIOSVendor
+eac_stringtable+0xb95 String: BIOSReleaseDate
+eac_stringtable+0xbb5 String: SystemManufacturer
+eac_stringtable+0xbdb String: SystemProductName
+eac_stringtable+0xbff String: \Registry\Machine\Hardware\DeviceMap\Scsi\Scsi Port 0\Scsi Bus 0\Target Id 0\Logical Unit Id 0
+eac_stringtable+0xcbd String: Identifier
+eac_stringtable+0xcd3 String: SerialNumber
+eac_stringtable+0xced String: \Registry\Machine\Hardware\Description\System\CentralProcessor\0
+eac_stringtable+0xd6f String: ProcessorNameString
+eac_stringtable+0xd97 String: \Registry\Machine\System\CurrentControlSet\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0000
+eac_stringtable+0xe61 String: DriverDesc
+eac_stringtable+0xe77 String: \Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion
+eac_stringtable+0xef5 String: InstallDate
+eac_stringtable+0xf0d String: ProductId
+eac_stringtable+0xf21 String: \Registry\Machine\Software\Microsoft\Windows\CurrentVersion\WindowsUpdate
+eac_stringtable+0xfb5 String: SusClientId
+eac_stringtable+0xfcd String: \Registry\Machine\System\CurrentControlSet\Control\Class\{4d36e972-e325-11ce-bfc1-08002be10318}\0001
+eac_stringtable+0x1097 String: \Registry\Machine\Software\Microsoft\Windows NT\CurrentVersion\Windows Activation Technologies\AdminObject\Store
+eac_stringtable+0x1179 String: MachineId
+eac_stringtable+0x118d String: 64-bit
+eac_stringtable+0x119b String: 32-bit
+eac_stringtable+0x11a9 String: \SystemRoot\System32\restore\MachineGuid.txt
+eac_stringtable+0x1203 String: \Driver\disk
+eac_stringtable+0x121d String: o"????zG?&?????
+eac_stringtable+0x122e String: OfflineUniqueIDRandomSeed
+eac_stringtable+0x1262 String: GsId
+eac_stringtable+0x126c String: ??????jI?~g?UzY?
+eac_stringtable+0x127d String: Ph?????8
+eac_stringtable+0x1288 String: ??)
+eac_stringtable+0x128e String: user32.dll
+eac_stringtable+0x12a4 String: gSharedInfo
+eac_stringtable+0x12b0 String: UWKProcess
+eac_stringtable+0x12bb String: svchost.exe
+eac_stringtable+0x12c7 String: WargamingError
+eac_stringtable+0x12d6 String: bcastdvr.exe
+eac_stringtable+0x12e3 String: Ob
+eac_stringtable+0x12e9 String: %s.%s%c
+eac_stringtable+0x12f1 String: %s.ord%i%c
+eac_stringtable+0x12fc String: LdrInitializeThunk
+eac_stringtable+0x130f String: KeServiceDescriptorTable
+eac_stringtable+0x1341 String: ZwCreateFile
+eac_stringtable+0x134e String: ZwDeviceIoControlFile
+eac_stringtable+0x1364 String: ZwQueryInformationProcess
+eac_stringtable+0x137e String: ZwQuerySystemInformation
+eac_stringtable+0x1397 String: ZwQueryVirtualMemory
+eac_stringtable+0x13ac String: \SystemRoot\system32\ntoskrnl.exe
+eac_stringtable+0x13f0 String: .dll
+eac_stringtable+0x13fa String: Dumper.dll
+eac_stringtable+0x1410 String: Glob.dll
+eac_stringtable+0x1422 String: mswsock.dll
+eac_stringtable+0x143a String: perl512.dll
+eac_stringtable+0x1452 String: vmclientcore.dll
+eac_stringtable+0x1474 String: vmwarewui.dll
+eac_stringtable+0x1490 String: virtualbox.dll
+eac_stringtable+0x14ae String: qtcorevbox4.dll
+eac_stringtable+0x14ce String: vboxvmm.dll
+eac_stringtable+0x14e6 String: netredirect.dll
+eac_stringtable+0x1506 String: kernelbase.dll
+eac_stringtable+0x1524 String: %wZ 0x%X
+
+eac_stringtable+0x1538 String: explorer.exe
+eac_stringtable+0x1545 String: \windows\explorer.exe
+eac_stringtable+0x1571 String: dllhost.exe
+eac_stringtable+0x157d String: taskhost.exe
+eac_stringtable+0x158a String: taskhostex.exe
+eac_stringtable+0x1599 String: taskhostw.exe
+eac_stringtable+0x15a7 String: msvbvm60.dll
+eac_stringtable+0x15c1 String: csrss.exe
+eac_stringtable+0x15d5 String: lsass.exe
+eac_stringtable+0x15e9 String: name="AutoHotkey"
+eac_stringtable+0x15fb String: LdrShutdownProcess
+eac_stringtable+0x160e String: \Program Files
+eac_stringtable+0x162c String: \AppData\
+eac_stringtable+0x1640 String: \System32\
+eac_stringtable+0x1656 String: \SysWOW64\
+eac_stringtable+0x166c String: \Windows\
+eac_stringtable+0x1680 String: \Windows\Temp\
+eac_stringtable+0x169e String: \AppData\Local\Temp\
+eac_stringtable+0x16c8 String: \AppData\LocalLow\Temp\
+eac_stringtable+0x16f8 String: gdi32.dll
+eac_stringtable+0x1702 String: user32.dll
+eac_stringtable+0x170d String: \REGISTRY\MACHINE\SYSTEM\ControlSet001\Services\SharedAccess\Parameters\FirewallPolicy\FirewallRules
+eac_stringtable+0x17d7 String: Action=Block
+eac_stringtable+0x17f1 String: Active=TRUE
+eac_stringtable+0x1809 String: \Policies\Microsoft\Windows\Safer\CodeIdentifiers
+eac_stringtable+0x186d String: \Control\Session Manager\AppCompatibility
+eac_stringtable+0x18c1 String: \Policies\Microsoft\Windows\AppCompat
+eac_stringtable+0x190d String: \Microsoft\Windows NT\CurrentVersion\AeDebug
+eac_stringtable+0x1967 String: \Microsoft\Windows NT\CurrentVersion\Image File Execution Options
+eac_stringtable+0x19eb String: \Microsoft\Cryptography\Wintrust\Config
+eac_stringtable+0x1a3b String: \Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+eac_stringtable+0x1aa3 String: GDIDPISCALING DPIUNAWARE
+eac_stringtable+0x1ad5 String: DPIUNAWARE
+eac_stringtable+0x1aeb String: HIGHDPIAWARE
+eac_stringtable+0x1b05 String: SafeDllSearchMode
+eac_stringtable+0x1b29 String: \Control\SESSION MANAGER
+eac_stringtable+0x1b5b String: RequireSignedAppInit_DLLs
+eac_stringtable+0x1b8f String: AppInit_DLLs
+eac_stringtable+0x1ba9 String: InProcessClient64.dll
+eac_stringtable+0x1bd5 String: ProductVersion
+eac_stringtable+0x1bf3 String: \Device\PhysicalMemory
+eac_stringtable+0x1c21 String: NtQueryInformationProcess
+eac_stringtable+0x1c3b String: NtSetSystemInformation
+eac_stringtable+0x1c52 String: NtQueryCompositionSurfaceBinding
+eac_stringtable+0x1c73 String: NtUnbindCompositionSurface
+eac_stringtable+0x1c8e String: NtGdiDdDDILock2
+eac_stringtable+0x1c9e String: \SystemRoot\System32\ntdll.dll
+eac_stringtable+0x1cbd String: \SystemRoot\System32\win32u.dll
+eac_stringtable+0x1cdd String: LoadLibraryW
+eac_stringtable+0x1cea String: FreeLibrary
+eac_stringtable+0x1cf6 String: \SystemRoot\System32\eac_usermode_%llu.dll
+eac_stringtable+0x1d4c String: \webio.dll
+eac_stringtable+0x1d62 String: \WININET.dll
+eac_stringtable+0x1d7c String: dllhost.exe
+eac_stringtable+0x1d94 String: easyanticheat.sys
+eac_stringtable+0x1db8 String: %wZ 0x%X %i
+
+eac_stringtable+0x1dd2 String: \Registry\User\
+eac_stringtable+0x1df2 String: \Software\Microsoft\Windows
+eac_stringtable+0x1e2a String: \CurrentVersion\Explorer\UserAssist
+eac_stringtable+0x1e72 String: \{CEBFF5CD-ACE2-4F4F-9178-9926F41749EA}\Count
+eac_stringtable+0x1ece String: \GLOBAL??\
+eac_stringtable+0x1ee4 String: \SystemRoot
+eac_stringtable+0x1efc String: \Registry\Machine\System\CurrentControlSet\services\gbClientService
+eac_stringtable+0x1f84 String: \Registry\Machine\System\CurrentControlSet\services\GarenaCIG
+eac_stringtable+0x2000 String: Type
+eac_stringtable+0x200a String: \SystemRoot\system32\drivers\UxdBus.sys
+eac_stringtable+0x205a String: \SystemRoot\system32\drivers\ccbootpnp.sys
+eac_stringtable+0x20b0 String: \SystemRoot\system32\drivers\richboot.sys
+eac_stringtable+0x2104 String: \SystemRoot\system32\drivers\iscsiboot.sys
+eac_stringtable+0x215a String: \SystemRoot\system32\drivers\iSharePp.sys
+eac_stringtable+0x21ae String: dbgview
+eac_stringtable+0x21b6 String: devenv.
+eac_stringtable+0x21be String: tv_
+eac_stringtable+0x21c2 String: Dbgv.sys
+eac_stringtable+0x21cb String: PROCMON23.sys
+eac_stringtable+0x21d9 String: dbk64.sys
+eac_stringtable+0x21e3 String: ArtificialReClass
+eac_stringtable+0x21f5 String: CaptureDriver
+eac_stringtable+0x2203 String: \SystemRoot\system32\xNtKrnl.exe
+eac_stringtable+0x2245 String: \SystemRoot\system32\xOsLoad.exe
+eac_stringtable+0x2287 String: csrss.exe
+eac_stringtable+0x2291 String: winsrv.dll
+eac_stringtable+0x22a7 String: lsass.exe
+eac_stringtable+0x22b1 String: lsasrv.dll
+eac_stringtable+0x22c7 String: wininit.exe
+eac_stringtable+0x22df String: winlogon.exe
+eac_stringtable+0x22f9 String: audiodg.exe
+eac_stringtable+0x2305 String: audiodg.exe
+eac_stringtable+0x231d String: mmdevapi.dll
+eac_stringtable+0x2337 String: svchost.exe
+eac_stringtable+0x234f String: \System32\atmfd.dll
+eac_stringtable+0x2377 String: \System32\cdd.dll
+eac_stringtable+0x239b String: \System32\rdpdd.dll
+eac_stringtable+0x23c3 String: \System32\vga.dll
+eac_stringtable+0x23e7 String: \System32\workerdd.dll
+eac_stringtable+0x2415 String: disk
+eac_stringtable+0x241f String: amazon
+eac_stringtable+0x242d String: Hyper-V UEFI
+eac_stringtable+0x2447 String: VMware
+eac_stringtable+0x2455 String: VBoxGuest.sys
+eac_stringtable+0x2463 String: VBoxVideo.sys
+eac_stringtable+0x2471 String: vm3dmp.sys
+eac_stringtable+0x247c String: prl_kmdd.sys
+eac_stringtable+0x2489 String: HyperVideo.sys
+eac_stringtable+0x2498 String: vrd.sys
+eac_stringtable+0x24a0 String: \GLOBAL??
+eac_stringtable+0x24b4 String: SymbolicLink
+eac_stringtable+0x24ce String: $Function
+eac_stringtable+0x24e2 String: C689AAB8-8E78-11D0-8C47-00C04FC295EE
+eac_stringtable+0x252c String: DE351A43-8E59-11D0-8C47-00C04FC295EE
+eac_stringtable+0x2576 String: 9BA61D3F-E73A-11D0-8CD2-00C04FC295EE
+eac_stringtable+0x25c0 String: FuncName
+eac_stringtable+0x25d2 String: CryptSIPDllGetSignedDataMsg
+eac_stringtable+0x260a String: CryptSIPGetSignedDataMsg
+eac_stringtable+0x263c String: CryptSIPDllVerifyIndirectData
+eac_stringtable+0x2678 String: CryptSIPVerifyIndirectData
+eac_stringtable+0x26ae String: \Microsoft\Cryptography\Providers\Trust\
+eac_stringtable+0x2700 String: \Microsoft\Cryptography\OID\EncodingType 0\
+eac_stringtable+0x2758 String: \SystemRoot\system32\ntdll.dll
+eac_stringtable+0x2777 String: ZwProtectVirtualMemory
+eac_stringtable+0x278e String: ZwGetNextProcess
+eac_stringtable+0x279f String: ZwSetSystemEnvironmentValueEx
+eac_stringtable+0x27bd String: ZwQuerySystemEnvironmentValueEx
